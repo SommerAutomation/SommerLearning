@@ -1,0 +1,52 @@
+{
+	"Login_AccountOwner": [
+		{
+			"Message": "Invalid Email.",
+			"MessageForEmpty": "Required",
+			"AlertMessage": "Invalid credentials.",
+			"MessageForWrongPassword": "Password didn't match. Try again.",
+			"Email": "qa.guest@mailinator.com",
+			"Password": "Test@123"
+		}
+	],
+	"Admincredentials": [
+		{
+			"Email": "automationcaseupadm@mailinator.com",
+			"Password": "Test@123"
+		}
+	],
+	"Guestcredentials": [
+		{
+			"Email": "automationcaseupguest@mailinator.com",
+			"Password": "Test@123"
+		}
+	],
+	"Basiccredentials": [
+		{
+			"Email": "automationcaseupbasic@mailinator.com",
+			"Password": "Test@123"
+		}
+	],"Managercredentials": [
+		{
+			"Email": "qa.manager@mailinator.com",
+			"Password": "Test@123"
+		}
+	],
+	"ValidationMessage": [
+		{
+			"MessageForIntroduceExhibit": "Exhibit Introduction Successful",
+			"MessageForExhibitRemove": "Exhibit Has Been Successfully Reverted",
+			"MessageForChangeExhibitNumber": "Exhibit number updated succesfully",
+			"MessageForChangeFileName": "File Name Updated",
+			"MessageForEmptyFileName": "file name can not be empty",
+			"MessageForEmptyExhibitNumber": "Exhibit number can't be empty",
+			"MessageForInvitation": "Invitation sent successfully!",
+			"MessageForDepositionDeleted": "Deposition Deleted",
+			"MessageForFolderNameUpdated": "Folder Name Updated",
+			"MessageForFileRequest": "File request created successfully",
+			"MessageForFolderDelete": "Item Deleted",
+			"MessageForInvitationSent": "Invitation sent successfully!",
+			"MessageForUserInvited":"Invitation sent successfully!"
+		}
+	]
+}
